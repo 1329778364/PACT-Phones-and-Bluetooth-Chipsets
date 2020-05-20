@@ -2,8 +2,6 @@
 
 A PACT Dataset
 
-PACT Phones and Bluetooth Chipsets v3 06may20
-
 This spreadsheet catalogs a wide range of commonly available phones and their Bluetooth chipsets based on openly available information
 as part of the PACT project.  Please feel free to edit/add/enrich this data.
 
